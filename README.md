@@ -1,5 +1,5 @@
-# Product Management Guide
-A Comprehensive Guide for Product Management
+# A Complete Product Management Guide
+This is a comprehensive guide for an aspiring product managers to learn about Product Management
 
 ### A comprehensive list of product management courses (updated January 2018)
 https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75
@@ -24,13 +24,9 @@ https://medium.com/@Clo_Spa/how-to-become-a-great-product-manager-according-to-1
 
 https://codeburst.io/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0bs
 
-## ---Product Blogs----
-https://stratechery.com/
-
-
 ## ---Technical Interview Guide---
 
-## Interview
+### Interview Guide
 https://github.com/Developer-Y/technical-interviews
 https://github.com/jwasham/coding-interview-university
 https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
@@ -53,4 +49,20 @@ https://www.hiredintech.com/courses/system-design
 https://github.com/checkcheckzz/system-design-interview
 https://gist.github.com/vasanthk/485d1c25737e8e72759f
 http://www.aosabook.org/en/distsys.html
+
+## ---Product Blogs----
+https://stratechery.com/
+
+## ---Product Books---
+
+https://www.goodreads.com/book/show/20987043-cracking-the-pm-interview
+https://www.goodreads.com/book/show/20822143-decode-and-conquer
+https://www.goodreads.com/book/show/10127019-the-lean-startup
+https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual
+https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma
+https://www.goodreads.com/book/show/18050143-zero-to-one
+https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things
+https://www.goodreads.com/book/show/66354.Flow
+https://www.goodreads.com/book/show/1635.Execution
+https://www.goodreads.com/book/show/4898.Blue_Ocean_Strategy
 
