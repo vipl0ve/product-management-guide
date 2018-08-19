@@ -12,7 +12,7 @@ https://medium.com/swlh/the-ultimate-guide-to-building-products-the-agile-way-8e
 
 https://productcoalition.com/the-typeform-product-playbook-49e1a5cc3a08
 
-### The Typeform Product Playbook
+### The Typeform Product Playbook ###
 https://jobs-to-be-done.com/
 
 ### Product Managing your job hunt
